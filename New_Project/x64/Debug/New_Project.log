@@ -1,0 +1,9 @@
+﻿  baseObject.cpp
+c:\users\user\source\repos\два плюса\labirinth_6\new_project\labirinth7cp.git\new_project\baseobject.cpp(26): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Floor.cpp
+  GameManager.cpp
+  StaticObject.cpp
+  Vector2.cpp
+  Wall.cpp
+  Создание кода...
+  New_Project.vcxproj -> C:\Users\User\source\repos\Два Плюса\Labirinth_6\New_Project\Labirinth7CP.git\x64\Debug\New_Project.exe
